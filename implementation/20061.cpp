@@ -1,4 +1,4 @@
-//21-01-26 implementation
+//21-01-26 implementation success
 
 #include <iostream>
 #define G 0

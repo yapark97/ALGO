@@ -1,4 +1,4 @@
-//21-01-26 union find
+//21-01-26 union find success
 
 #include <iostream>
 
@@ -23,10 +23,6 @@ bool crossed(int r1, int r2)
 
 int _find(int r)
 {
-    /*while (parents[r1] >= 0)
-        r1 = parents[r1];
-    return r1;
-    //이렇게 하면 트리가 길어짐 */
     if (parents[r] < 0)
         return r;
     int root = _find(parents[r]);

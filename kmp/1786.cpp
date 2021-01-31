@@ -1,4 +1,4 @@
-//21-01-25 kmp
+//21-01-25 kmp success
 
 #include <iostream>
 #include <string>
