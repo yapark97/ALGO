@@ -1,4 +1,4 @@
-//21-02-05 Kruskal success
+//21-02-05 Kruskal solved
 
 #include <iostream>
 #include <queue>

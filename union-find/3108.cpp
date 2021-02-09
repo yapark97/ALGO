@@ -1,4 +1,4 @@
-//21-01-26 union find success
+//21-01-26 union find solved
 
 #include <iostream>
 

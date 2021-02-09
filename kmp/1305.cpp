@@ -1,4 +1,4 @@
-//21-01-31 kmp success
+//21-01-31 kmp solved
 
 #include <iostream>
 #include <string>

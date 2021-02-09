@@ -1,4 +1,4 @@
-//21-02-01 trie success
+//21-02-01 trie solved
 
 #include <iostream>
 #include <string>

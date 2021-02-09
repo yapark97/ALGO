@@ -1,4 +1,4 @@
-//21-01-31 brute-force success
+//21-01-31 brute-force solved
 
 #include <iostream>
 
